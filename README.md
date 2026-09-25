@@ -26,3 +26,18 @@
 ## 状态
 
 🚧 项目刚刚起步，正在规划中。欢迎老师们提出想要的课件主题。
+
+## 许可证
+
+本项目采用双许可证：
+
+| 部分 | 范围 | 许可证 |
+|---|---|---|
+| 课件内容 | `lessons/` 目录下的全部内容（教学设计、讲解文字、图片、音视频素材，以及课件自身的代码） | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)，见 [LICENSE-CONTENT](LICENSE-CONTENT) |
+| 代码 | 除 `lessons/` 以外的全部代码（通用引擎、组件、工具等） | [MIT](LICENSE)，见 [LICENSE](LICENSE) |
+
+**课件内容可以这样用**：老师和学校在课堂教学中免费使用、按需修改；使用时注明出处「动课 dongke」；修改后再分享的，须采用相同许可证。
+
+**需要另行授权的情况**：将课件用于商业目的，例如培训机构的收费课程、打包售卖、放进收费产品等。如有需要请[提交 issue](https://github.com/aviate-hubs/dongke/issues) 联系。
+
+以上说明只是为了方便理解，具体权利义务以许可证原文为准。
